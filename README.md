@@ -1,2 +1,3 @@
 # Gerenciamento-de-dados
- Laboratório de Gerenciamento de Dados para análise e organização eficiente de dados.
+- Aqui compartilho um pouco dos meus estudos e rotinas do meu dia a dia no trabalho.
+ 
