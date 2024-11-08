@@ -1,3 +1,4 @@
-# Gerenciamento-de-dados
-- Aqui compartilho um pouco dos meus estudos e rotinas do meu dia a dia no trabalho.
- 
+# Gerenciamento de dados e manipulação.
+- Aqui compartilho um pouco dos meus estudos e rotinas do meu dia a dia no trabalho
+- Criei um laborátorio onde eu faço meus testes para depois passar isso em produção, atualmente estou atuando com SQL SERVER 2016 e também desenvolvendo habilidades em Python.
+- Por enquanto eu registrei uma rotina de extração de dados que tinhamos semestralmente em uma das empresas que passei, onde eu centralizava os dados que serião usados em um relatório final para o usuário, em uma tabela do SQL Server, já com seus valores limpos e tratados. Após isso eu realizo a exportação desses dados usandod BCP e powershell, há outras formas também, porém eu acredito que essa seja mais objetiva e simples, após exporta os dados para um CSV, abro o excel e começo a montar um relatórios com as informações, utilizando gráficos para facilitar a visualização do usuário final.
