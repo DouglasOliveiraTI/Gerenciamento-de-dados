@@ -37,5 +37,5 @@ Estou aprimorando meus conhecimentos em **Python** para explorar outras formas d
 ---
 
 ## Contato
-- LinkedIn: [Seu LinkedIn](#)
+- LinkedIn: [https://www.linkedin.com/in/douglas-de-oliveira-alves-ferreira-a71782180/](https://www.linkedin.com/in/douglas-de-oliveira-alves-ferreira-a71782180/)
 - GitHub: [Seu GitHub](#)
